@@ -1,4 +1,4 @@
-//ESTRUCUTRA DE LA API REST 
+//ESTRUCTURA DE LA API REST 
 
 package com.ucompensar.dispositivos.controller;                             
   import java.util.List;                                                      
